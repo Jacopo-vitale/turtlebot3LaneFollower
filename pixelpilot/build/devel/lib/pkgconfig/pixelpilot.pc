@@ -1,0 +1,8 @@
+prefix=/home/jacopo/catkin_ws/src/pixelpilot/build/devel
+
+Name: pixelpilot
+Description: Description of pixelpilot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
