@@ -10,8 +10,8 @@ This project consists into detect two different color lines (the lane edges) by 
 First this ROS package is being tested on a custom **Gazebo** environment which tries to represent the real case (in the following image)
 
 <p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/74437465/191564727-938a9f99-c94a-4f25-a7c5-465f9ffa2d6a.jpg">
-  <img width="450" src="https://user-images.githubusercontent.com/74437465/191564759-cdeb6764-9912-4dd3-82b4-88d5a3bf514d.png">
+  <img width="350" src="https://user-images.githubusercontent.com/74437465/191564727-938a9f99-c94a-4f25-a7c5-465f9ffa2d6a.jpg">
+  <img width="350" src="https://user-images.githubusercontent.com/74437465/191564759-cdeb6764-9912-4dd3-82b4-88d5a3bf514d.png">
   
 </p>
 In virtual enviroment the two lines are colored Green and Red,while in the rieal case Yellow and Red, so the center of the robot, need to keep as close as possible to the two line mid-distance.
