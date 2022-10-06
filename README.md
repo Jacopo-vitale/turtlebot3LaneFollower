@@ -14,7 +14,7 @@ First this ROS package is being tested on a custom **Gazebo** environment which 
   <img width="350" src="https://user-images.githubusercontent.com/74437465/191564759-cdeb6764-9912-4dd3-82b4-88d5a3bf514d.png">
   
 </p>
-In virtual enviroment the two lines are colored Green and Red,while in the rieal case Yellow and Red, so the center of the robot, need to keep as close as possible to the two line mid-distance.
+In virtual enviroment the two lines are colored Green and Red, while, in the rieal case Yellow and Red. So, the task is indeed to keep the center of the robot as close as possible to the two line mid-distance.
 Once tested on virtual enviroment, by connecting via SSH to the Robot, we can build and run our custom package.
 
 It is possible to simulate also the onboard camera inside the virtual environment (see image below)
